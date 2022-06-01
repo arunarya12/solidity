@@ -33,7 +33,7 @@ Currency Symbol: AVAX
 Block Explorer URL: https://cchain.explorer.avax-test.network
 ```
 
-## request fuji-avalanche testnet faucet 
+## Request fuji-avalanche testnet faucet 
 
  ```
  https://faucet.avax.network/
