@@ -26,7 +26,7 @@
 
 ## How to add avalache 
 ```
-  Network Name: Avalanche Fuji Testnet
+Network Name: Avalanche Fuji Testnet
 New RPC URL: https://api.avax-test.network/ext/bc/C/rpc
 Chain ID: 43113
 Currency Symbol: AVAX
