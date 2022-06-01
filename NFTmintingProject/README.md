@@ -19,7 +19,7 @@
 ## Live working link 
 
 ```
-  https://rainbow-empanada-295894.netlify.app/
+https://rainbow-empanada-295894.netlify.app/
 ```
 
 
