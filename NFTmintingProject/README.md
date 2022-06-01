@@ -7,7 +7,7 @@
   2) npm start
 ```
 
-## NOTE:
+## NOTE: Condition to run:
 
 ```
   
