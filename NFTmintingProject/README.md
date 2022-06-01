@@ -10,10 +10,10 @@
 ## NOTE: Condition to run:
 
 ```
-  
-          1) Switch to avalanche network. <
-          2) Minting a nft costs one avax, so make sure you have atleast one avax in your wallet. 
-          3) You can only withdraw if you have some nft minted.
+
+1) Switch to avalanche network. <
+2) Minting a nft costs one avax, so make sure you have atleast one avax in your wallet. 
+3) You can only withdraw if you have some nft minted.
 ```
 
 ## Live working link 
