@@ -21,3 +21,20 @@
 ```
   https://rainbow-empanada-295894.netlify.app/
 ```
+
+
+
+## How to add avalache 
+```
+  Network Name: Avalanche Fuji Testnet
+New RPC URL: https://api.avax-test.network/ext/bc/C/rpc
+Chain ID: 43113
+Currency Symbol: AVAX
+Block Explorer URL: https://cchain.explorer.avax-test.network
+```
+
+## request fuji-avalanche testnet faucet 
+
+ ```
+ https://faucet.avax.network/
+ ```
